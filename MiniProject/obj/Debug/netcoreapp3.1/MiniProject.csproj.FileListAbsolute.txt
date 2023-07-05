@@ -1,0 +1,14 @@
+C:\Users\ayoub\source\repos\MiniProject\MiniProject\bin\Debug\netcoreapp3.1\MiniProject.exe
+C:\Users\ayoub\source\repos\MiniProject\MiniProject\bin\Debug\netcoreapp3.1\MiniProject.deps.json
+C:\Users\ayoub\source\repos\MiniProject\MiniProject\bin\Debug\netcoreapp3.1\MiniProject.runtimeconfig.json
+C:\Users\ayoub\source\repos\MiniProject\MiniProject\bin\Debug\netcoreapp3.1\MiniProject.runtimeconfig.dev.json
+C:\Users\ayoub\source\repos\MiniProject\MiniProject\bin\Debug\netcoreapp3.1\MiniProject.dll
+C:\Users\ayoub\source\repos\MiniProject\MiniProject\bin\Debug\netcoreapp3.1\MiniProject.pdb
+C:\Users\ayoub\source\repos\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayoub\source\repos\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.AssemblyInfoInputs.cache
+C:\Users\ayoub\source\repos\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.AssemblyInfo.cs
+C:\Users\ayoub\source\repos\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.dll
+C:\Users\ayoub\source\repos\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.pdb
+C:\Users\ayoub\source\repos\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.genruntimeconfig.cache
